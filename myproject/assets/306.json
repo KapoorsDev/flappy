@@ -1,0 +1,18 @@
+{
+  "name": "SEI SAPIENS #306",
+  "description": "Collection of 555 most adorable Sapiens comming on SEI",
+  "image": "306.png",
+  "edition": 306,
+  "date": 1710083238157,
+  "attributes": [
+    {
+      "trait_type": "Flappy",
+      "value": "1 (162)"
+    },
+    {
+      "trait_type": "Items",
+      "value": "1 (46)"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
